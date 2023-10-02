@@ -1,0 +1,18 @@
+
+=
+java:S2189A""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ
+D
+java:S21890""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8®Ş„­1
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»û‘şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(³ÕÓ
+K
+java:S2446"0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ
+t
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»û‘şÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(‰Û¢¶8€’Ùæ¬1
+R
+java:S2446 "0"notify" may not wake up the appropriate thread.(óÄ£¶øÿÿÿÿ8éÚæ¬1
+Z	java:S106P"9Replace this use of System.out or System.err by a logger.(Ç®¾úÿÿÿÿ8œŞæ¬1
